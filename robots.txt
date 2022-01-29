@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow:
+Disallow: /db/
+Disallow: /.vscode/
+Disallow: /cdn/
+
+User-agent: Googlebot
+Disallow:
+Disallow: /db/
+Disallow: /.vscode/
+Disallow: /cdn/
+
+User-agent: Mediapartners-Google
+Disallow:
+Disallow: /db/
+Disallow: /.vscode/
+Disallow: /cdn/
